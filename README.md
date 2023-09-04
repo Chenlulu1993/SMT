@@ -1,8 +1,8 @@
 # SMT
 SFA-guided Mosaic Transformer for Tracking Small Objects in Snapshot Spectral imaging
 
-# Download the Mosaic Tracking Dataset
-We offer the following ways to download the IMEC25 dataset.
+# Download the MSSOT Dataset
+We offer the following ways to download the MSSOT dataset.
 Baidu YunPan (https://pan.baidu.com/s/1zM7y0dTcoo9dw4RZms_bLQ Extraction code: cl25 )
 
 
