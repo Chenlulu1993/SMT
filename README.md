@@ -14,4 +14,4 @@ If you use E2EVAP in your research, please cite the following paper:
 L. Chen, Y. Zhao, S. G. Kong, SFA-guided Mosaic Transformer for Tracking Small Objects in Snapshot Spectral imaging. ISPRS Journal of Photogrammetry and Remote Sensing.
 
 # Getting Started
-We will make source codeavailable for reproducibiliy and benchmarking purposes here as soon as possible.
+We will make source code available for reproducibiliy and benchmarking purposes here as soon as possible.
